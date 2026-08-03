@@ -8,7 +8,7 @@ Hello, I'm Ryan. Aspiring Data Analyst with expertise in data analysis, data vis
 - Data analysis and reporting using Google Sheets
 
 ## Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/ryanklarin/Portfolio).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/ryanklarin/Portfolio/).
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ryan-klarin/)
