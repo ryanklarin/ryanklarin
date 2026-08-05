@@ -1,5 +1,7 @@
 # Introducing Myself
 
+![Profile Banner](Profile Banner.png)
+
 Hello, I'm Ryan. Aspiring Data Analyst with expertise in data analysis, data visualization, and reporting
 
 - Data Collection and sharing on Kaggle
