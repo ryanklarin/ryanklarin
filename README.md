@@ -1,6 +1,6 @@
 # Introducing Myself
 
-![Profile Banner](Profile Banner.png)
+![Profile Banner](ProfileBanner.png)
 
 Hello, I'm Ryan. Aspiring Data Analyst with expertise in data analysis, data visualization, and reporting
 
